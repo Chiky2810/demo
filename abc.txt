@@ -4,7 +4,3 @@ Green-1 - 549848
 Green-2 - 7DB174
 Blue-1 - 4B78B1
 Blue-2 - 6E91C7
-
-
-Blue-1 - 4B78B1
-Blue-2 - 6E91C7
